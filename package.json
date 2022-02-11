@@ -41,7 +41,7 @@
     "file-loader": "^5.0.2",
     "isparta": "^4.1.1",
     "isparta-loader": "^2.0.0",
-    "karma": "^4.4.1",
+    "karma": "^6.3.14",
     "karma-chrome-launcher": "^3.1.0",
     "karma-coverage": "^2.0.1",
     "karma-jasmine": "^2.0.1",
